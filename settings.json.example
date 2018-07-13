@@ -1,0 +1,18 @@
+{
+	"addresses": {
+		"score": "0x0A825E68"
+	},
+
+	"twitch": {
+		"connection": {
+			"reconnect": true
+		},
+		"identity": {
+			"username": "twitchuser420",
+			"password": "oauth:owowowowowowowowowowoowowowowo"
+		},
+		"channels": ["#twitchuser420"]
+	},
+
+	"vote_period": 12000
+}
